@@ -1,0 +1,45 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "node/node.d.ts": {
+      "commit": "40c60850ad6c8175a62d5ab48c4e016ea5b3dffe"
+    },
+    "bluebird/bluebird.d.ts": {
+      "commit": "78ba6e41543e5ababbd1dda19797601be3c1f304"
+    },
+    "chai/chai.d.ts": {
+      "commit": "78ba6e41543e5ababbd1dda19797601be3c1f304"
+    },
+    "assertion-error/assertion-error.d.ts": {
+      "commit": "78ba6e41543e5ababbd1dda19797601be3c1f304"
+    },
+    "lodash/lodash.d.ts": {
+      "commit": "78ba6e41543e5ababbd1dda19797601be3c1f304"
+    },
+    "mocha/mocha.d.ts": {
+      "commit": "78ba6e41543e5ababbd1dda19797601be3c1f304"
+    },
+    "del/del.d.ts": {
+      "commit": "78ba6e41543e5ababbd1dda19797601be3c1f304"
+    },
+    "glob/glob.d.ts": {
+      "commit": "78ba6e41543e5ababbd1dda19797601be3c1f304"
+    },
+    "minimatch/minimatch.d.ts": {
+      "commit": "78ba6e41543e5ababbd1dda19797601be3c1f304"
+    },
+    "es6-promise/es6-promise.d.ts": {
+      "commit": "78ba6e41543e5ababbd1dda19797601be3c1f304"
+    },
+    "mkdirp/mkdirp.d.ts": {
+      "commit": "78ba6e41543e5ababbd1dda19797601be3c1f304"
+    },
+    "temp/temp.d.ts": {
+      "commit": "40c60850ad6c8175a62d5ab48c4e016ea5b3dffe"
+    }
+  }
+}

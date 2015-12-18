@@ -1,0 +1,5 @@
+/typings
+/node_modules
+/build/**/*.map
+/build/**/*-spec.js
+/test-files/cwd

@@ -1,0 +1,11 @@
+/src
+/.vscode
+/test-files
+/typings
+/.editorconfig
+/.gitignore
+/gulpfile.js
+/jsconfig.json
+/tsd.json
+*.js.map
+*-spec.js

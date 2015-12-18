@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+	<metadata>
+		<id><%- name %></id>
+		<version><%- version %></version>
+		<title><%- title %></title>
+		<description><%- description %></description>
+		<authors><%- authors %></authors>
+		<iconUrl><%- iconUrl %></iconUrl>
+		<copyright><%- copyright %></copyright>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+	</metadata>
+	<files>
+		<%= files %>
+	</files>
+</package>
